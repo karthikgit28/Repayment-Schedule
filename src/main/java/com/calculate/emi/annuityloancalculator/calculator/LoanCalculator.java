@@ -100,7 +100,7 @@ public class LoanCalculator {
 	 * Prints the table header for the  Re-schedule.
 	 */
 	private static void printTableHeader() {
-		System.out.println("\nRe-schedule Data");
+		 System.out.println("\nRe-schedule Data");
 		for(int i = 0; i < 40; i++) {  // Draw a line
 			System.out.print("-");
 		}
